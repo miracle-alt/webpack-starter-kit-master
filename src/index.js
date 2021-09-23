@@ -1,4 +1,4 @@
-import name from '../modula-1';
+import name from './modula-1';
 import './css/common.css';
 import './css/common.scss';
 console.log(name);
