@@ -1,9 +1,9 @@
 import name from './modula-1';
-import './css/common.css';
 import './css/common.scss';
+
 console.log(name);
 
-console.log('Это index.js, привет');
+console.log('Это index.js, HELLO');
 
 function component() {
     const element = document.createElement('div');
